@@ -19,6 +19,8 @@ A curated list of awesome DevX resources.
 - [Using Observability to improve the Developer Experience – Borja Burgos](https://www.youtube.com/watch?v=8LlM0knBuLQ)
 - [Find friction in your developer experience by user testing with developers – Ian Jennings](https://www.youtube.com/watch?v=Dn6-See4wfk)
 - [DevX at Heroku and GitHub - An interview with Jason Warner](https://www.youtube.com/watch?v=SddUEk878jM)
+- [DevX in the Internet Age: One Step Forward, Two Steps Back – Anurag Goel](https://www.youtube.com/watch?v=asA7rE0mDeo)
+
 ## CLI 
 
 ### Examples
