@@ -69,7 +69,7 @@ func checkLinks(links []string) ([]brokenLinkErr, error) {
 			continue
 		}
 		if resp.StatusCode >= 400 {
-			brokenLinkErrs = append(brokenLinkErrs, fmt.Errorf("%d: %s", resp.StatusCode, link))
+			brokenLinkErrs = append(brokenLinkErrs, fmt.Errorf("%d: %q", resp.StatusCode, link))
 		}
 	}
 	return brokenLinkErrs, nil
