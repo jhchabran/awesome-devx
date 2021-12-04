@@ -12,7 +12,13 @@ A curated list of awesome DevX resources.
 - [DevX: Fundamentally harder than normal UX](https://www.gabrielpickard.com/posts/developer-experience-fundamentally-harder-than-normal-ux/)
 - [Understanding Feedback Loops](https://medium.com/@antweiss/understanding-feedback-loops-in-devops-e93b92b74bd1)
 
-## Examples
+## Interviews and talks
+
+- [A Conversation about Developer Experience with Lei Zhang](https://www.techatbloomberg.com/blog/conversation-developer-experience-lei-zhang/)
+
+## CLI 
+
+### Examples
 
 - [GitHub cli](https://github.com/cli/cli)
 - [Heroku cli](https://devcenter.heroku.com/articles/heroku-cli)
