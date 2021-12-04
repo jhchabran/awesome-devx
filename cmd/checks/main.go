@@ -25,8 +25,9 @@ func main() {
 
 	if len(brokenLinks) > 0 {
 		for _, err := range brokenLinks {
-			fmt.Println(err.Error())
+			fmt.Printf("❌%s\n", err.Error())
 		}
+		fmt.Printf("\033[1mFound %d errors.\033[0m\n", len(brokenLinks))
 		os.Exit(1)
 	}
 }
