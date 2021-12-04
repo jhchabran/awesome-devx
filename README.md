@@ -2,7 +2,10 @@
 
 A curated list of awesome DevX resources.
 
-## Tools
+**Principles**:
+- Focused on DevX itself and not a specific tool
+  - (the list would grow endlessly otherwise and relevancy will decay).
+- Quality > Quantity
 
 ## Articles
 
