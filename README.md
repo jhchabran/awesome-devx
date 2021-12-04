@@ -9,6 +9,7 @@ A curated list of awesome DevX resources.
 
 ## Articles
 
+- [404](https://qwfopqwfp.com)
 - [Don't write errors that makes me think](https://www.swyx.io/write-errors-that-don-t-make-me-think-24hg/)
 - [Software Engineers don’t scale …](https://teale.de/blog/tech/software-engineers-dont-scale/)
 - [Developer Care](https://jhchabran.dev/posts/dev-care/)
