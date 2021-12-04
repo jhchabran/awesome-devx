@@ -62,9 +62,10 @@ func checkLinks(links []string) ([]brokenLinkErr, error) {
 		Timeout: time.Second * 10, // be lenient
 	}
 	for _, link := range links {
-		resp, err := c.Get("http://example.com/")
+		resp, err := c.Get(link)
 		if err != nil {
 			brokenLinkErrs = append(brokenLinkErrs, fmt.Errorf("ERR: %q, %s", err, link))
+			continue
 		}
 		if resp.StatusCode >= 400 {
 			brokenLinkErrs = append(brokenLinkErrs, fmt.Errorf("%d: %s", resp.StatusCode, link))
