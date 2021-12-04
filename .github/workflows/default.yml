@@ -1,0 +1,26 @@
+name: Default
+
+on:
+  push:
+    branches: [ ci-check ]
+  pull_request:
+  paths:
+    - 'README.md'
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with: 
+          persist-credentials: false
+
+      - name: Install Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: 1.17
+        
+      - name: Test
+        run: "go run cmd/checks/main.go README.md"
