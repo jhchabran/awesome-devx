@@ -1,10 +1,8 @@
 name: checks
 on:
-  push:
-    branches: [ ci-check ]
+  pull_request:
     paths:
       - 'README.md'
-  pull_request:
 
 jobs:
   checks:
