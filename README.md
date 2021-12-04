@@ -17,7 +17,7 @@ A curated list of awesome DevX resources.
 
 - [Designing the Developer Experience - Tanja Bach and Jacob Bo Tiedemann](https://www.youtube.com/watch?v=55E12TDYf2E)
 - [Using Observability to improve the Developer Experience – Borja Burgos](https://www.youtube.com/watch?v=8LlM0knBuLQ)
-
+- [Find friction in your developer experience by user testing with developers – Ian Jennings](https://www.youtube.com/watch?v=Dn6-See4wfk)
 ## CLI 
 
 ### Examples
