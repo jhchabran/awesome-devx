@@ -9,10 +9,11 @@ A curated list of awesome DevX resources.
 
 ## Articles
 
-- [404](https://qwfopqwfp.com)
 - [Don't write errors that makes me think](https://www.swyx.io/write-errors-that-don-t-make-me-think-24hg/)
 - [Software Engineers don’t scale …](https://teale.de/blog/tech/software-engineers-dont-scale/)
+- [404](https://httpstat.us/404)
 - [Developer Care](https://jhchabran.dev/posts/dev-care/)
+- [dns](https://qwfopqwfp.com)
 - [DevX: Fundamentally harder than normal UX](https://www.gabrielpickard.com/posts/developer-experience-fundamentally-harder-than-normal-ux/)
 - [Understanding Feedback Loops](https://medium.com/@antweiss/understanding-feedback-loops-in-devops-e93b92b74bd1)
 - [A Conversation about Developer Experience with Lei Zhang](https://www.techatbloomberg.com/blog/conversation-developer-experience-lei-zhang/)
