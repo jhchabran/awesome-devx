@@ -11,10 +11,11 @@ A curated list of awesome DevX resources.
 - [Developer Care](https://jhchabran.dev/posts/dev-care/)
 - [DevX: Fundamentally harder than normal UX](https://www.gabrielpickard.com/posts/developer-experience-fundamentally-harder-than-normal-ux/)
 - [Understanding Feedback Loops](https://medium.com/@antweiss/understanding-feedback-loops-in-devops-e93b92b74bd1)
-
-## Interviews and talks
-
 - [A Conversation about Developer Experience with Lei Zhang](https://www.techatbloomberg.com/blog/conversation-developer-experience-lei-zhang/)
+
+## Talks
+
+- [Designing the Developer Experience - Tanja Bach and Jacob Bo Tiedemann](https://www.youtube.com/watch?v=55E12TDYf2E)
 
 ## CLI 
 
