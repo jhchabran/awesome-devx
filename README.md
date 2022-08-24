@@ -26,6 +26,8 @@ A curated list of awesome DevX resources.
 
 ## CLI 
 
+- [CLI Guidelines](https://clig.dev/)
+
 ### Examples
 
 - [GitHub cli](https://github.com/cli/cli)
